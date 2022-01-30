@@ -319,7 +319,7 @@ function App() {
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
                 <a href="mailto:diademroyal105@gmail.com">
-                  <i className="fa fa-envelope"></i>
+                  <i className="fa fa-envelop"></i>
                 </a>
               </li>
               <li className="list-inline-item">
